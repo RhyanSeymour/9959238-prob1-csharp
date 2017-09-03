@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\9959238\\desktop\\9959238-prob1-csharp\\9959238-prob1-csharp.csproj",
+      "projectUniqueName": "C:\\Users\\9959238\\Desktop\\9959238-prob1-csharp\\9959238-prob1-csharp.csproj",
       "projectName": "9959238-prob1-csharp",
-      "projectPath": "C:\\Users\\9959238\\desktop\\9959238-prob1-csharp\\9959238-prob1-csharp.csproj",
+      "projectPath": "C:\\Users\\9959238\\Desktop\\9959238-prob1-csharp\\9959238-prob1-csharp.csproj",
       "packagesPath": "C:\\Users\\9959238\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\9959238\\desktop\\9959238-prob1-csharp\\obj\\",
+      "outputPath": "C:\\Users\\9959238\\Desktop\\9959238-prob1-csharp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
